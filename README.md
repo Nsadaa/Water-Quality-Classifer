@@ -43,4 +43,4 @@ Indicates if water is safe for human consumption where 1 means Potable and 0 mea
 >Pandas, Numpy, Matplotlib, seaborn, Scikitlearn
 
 ## Resources
-> https://www.kaggle.com/adityakadiwal/water-potability | Already Submitted To This Repository ( Dataset.rar )
+> https://www.kaggle.com/adityakadiwal/water-potability | Already Submitted To This Repository ( Dataset.zip )
